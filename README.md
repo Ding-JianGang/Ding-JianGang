@@ -11,7 +11,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - *2024.09*: &nbsp;🎉🎉 New Journal Paper on **Nearshore optical video object detector based on temporal branch and spatial feature enhancement** Accepted by **Engineering Applications of Artificial Intelligence** (中科院二区, IF=8.0, 通讯作者).
 - *2024.03*: &nbsp;🎉🎉 New Journal Paper on **Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance** Accepted by **IEEE Transactions on Intelligent Transportation Systems** (中科院一区, Top, IF=8.5, 第一作者).
 - *2023.03*: &nbsp;🎉🎉 New Journal Paper on **A coarse aggregate gradation detection method based on 3D point cloud** Accepted by **Construction and Building Materials** (中科院一区, Top, IF=7.6, 通讯作者).
-- *2023.02*: &nbsp;🎉🎉 New Journal Paper on **Foreign Bodies Detector Based on DETR for High-Resolution X-Ray Images of Textiles** Accepted by **IEEE Transactions on Instrumentation and Measurement** (中科院一区, Top, IF=5.6, 第一作者).
+- *2023.02*: &nbsp;🎉🎉 New Journal Paper on **Foreign Bodies Detector Based on DETR for High-Resolution X-Ray Images of Textiles** Accepted by **IEEE Transactions on Instrumentation and Measurement** (中科院二区, Top, IF=5.6, 第一作者).
 - *2023.01*: &nbsp;🎉🎉 New Journal Paper on **Sw-YoloX: An anchor-free detector based transformer for sea surface object detection** Accepted by **Expert Systems With Applications** (中科院一区, Top, IF=8.6, 第一作者).
 
 # 📝 Publications 
