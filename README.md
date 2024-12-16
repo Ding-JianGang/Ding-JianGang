@@ -1,72 +1,73 @@
+# Welcome!
 
-<h1 align="center">
-AcadHomepage
-</h1>
+I am a Ph.D. candidate at Chang'an University, conducting research on situational awareness in nearshore environments. My supervisor is Professor [**Li Wei**](https://js.chd.edu.cn/sjkxyrgzn/lw103/list.htm). My work focuses on multimodal fusion, multi-object tracking, and vision-language large models. Currently, I am deeply involved in AI Agent projects for specific scenarios as part of my doctoral research. In addition, I have conducted research on traditional computer vision (CV), edge computing, and C++ front-end development (QT) and have independently developed a complete set of front-end and back-end algorithms for industrial production (Digital Radiography imaging), which generated millions in value. If you're interested in my work, feel free to email me.
 
-<div align="center">
 
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
+# 🔥 News
+- *2024.12*: &nbsp;🎉🎉 New Journal Paper on **LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation** Accepted by **Information Fusion** (中科院一区, Top, IF=18.6, 第一作者).
+- *2024.10*: &nbsp;🎉🎉 New Journal Paper on **SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking** Accepted by **Pattern Recognition** (中科院一区, Top, IF=8.0, 第一作者).
+- *2024.10*: &nbsp;🎉🎉 New Conference Paper on **Learning to Follow Frequency View Guidance for Dental CT Images Deblurring** Accepted by **IEEE International Conference on Bioinformatics and Biomedicine 2024** (CCF-B, EI, 第一作者).
+- *2024.10*: &nbsp;🎉🎉 New Journal Paper on **Crack instance segmentation using splittable transformer and position coordinates** Accepted by **Automation in Construction** (中科院一区, Top, IF=10.3, 通讯作者).
+- *2024.09*: &nbsp;🎉🎉 New Journal Paper on **Nearshore optical video object detector based on temporal branch and spatial feature enhancement** Accepted by **Engineering Applications of Artificial Intelligence** (中科院二区, IF=8.0, 通讯作者).
+- *2024.03*: &nbsp;🎉🎉 New Journal Paper on **Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance** Accepted by **IEEE Transactions on Intelligent Transportation Systems** (中科院一区, Top, IF=8.5, 第一作者).
+- *2023.03*: &nbsp;🎉🎉 New Journal Paper on **A coarse aggregate gradation detection method based on 3D point cloud** Accepted by **Construction and Building Materials** (中科院一区, Top, IF=7.6, 通讯作者).
+- *2023.02*: &nbsp;🎉🎉 New Journal Paper on **Foreign Bodies Detector Based on DETR for High-Resolution X-Ray Images of Textiles** Accepted by **IEEE Transactions on Instrumentation and Measurement** (中科院一区, Top, IF=5.6, 第一作者).
+- *2023.01*: &nbsp;🎉🎉 New Journal Paper on **Sw-YoloX: An anchor-free detector based transformer for sea surface object detection** Accepted by **Expert Systems With Applications** (中科院一区, Top, IF=8.6, 第一作者).
+
+# 📝 Publications 
+🎓 *Low-level tasks*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation](https://doi.org/10.1016/j.inffus.2024.102870) <br> **Jiangang Ding**, Yiquan Du, Wei Li, Lili Pei, Ningning Cui <br> [**Project**](https://github.com/Ding-JianGang/LG-Diff) <strong> | SCI Journal Paper</strong>
+- Nearshore cross-modal translation is formulated as a denoising diffusion process.
+- We develop a two-stage pipeline guided by local class-regional information.
+- Decoupling high- and low-frequency information in the feature extraction.
+- A cross-modal benchmark for nearshore image translation task is proposed.
+</div>
 </div>
 
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
+🎓 *High-level tasks*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/SeaTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
+[SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking](https://doi.org/10.1016/j.patcog.2024.111091) <br> **Jiangang Ding**, Wei Li, Ming Yang, Yuanlin Zhao, Lili Pei, Aojia Tian <br> <strong> SCI Journal Paper</strong>
+- We implemented a fully motion information-based pipeline for the NMOT challenge.
+- Solve long-term occlusion problems through guiding modulation between objects.
+- Confidence, height and corner information are used to reconstruct the tracker.
+- Reduce tracking errors through long and short-term tracklets fusion.
+</div>
+</div>
 
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/CrossModalityDetect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
+[Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance](https://doi: 10.1109/TITS.2024.3373370) <br> **Jiangang Ding**, Wei Li, Lili Pei, Ming Yang, Aojia Tian, Bo Yuan <br> [**Project**](https://github.com/Ding-JianGang/Cross-Modality-MOT-in-Nearshore-Environments) <strong> | SCI Journal Paper</strong>
+- We propose a holistic cross-modality NMOT pipeline based on optical video surveillance and demonstrate its state-of-the-art performance in multiple benchmark evaluations.
+- We developed a simple yet effective CBT to decouple and guide the fusion of the RGB and thermal infrared video streams. Additionally, we introduce a Temporal Context Transformer to mitigate the various complex degradations caused by video signals by integrating feature information from the current and historical frames.
+- We heuristically model the motion interrelationships of objects to compensate for the Kalman Filter prior estimates, synchronously combining low-confidence modeling and MCM to assist with association and tracklet correction.
+</div>
+</div>
 
-## Quick Start
+# 🎖 Honors and Awards
+- *2024.10*: First-Class Scholarship for Ph.D. Students (Top 10%)
+- *2024.10*: National Scholarship for Ph.D. Students (**Top 1%**)
+- *2023.10*: Excellent Ph.D. Student (Top 10%)
+- *2022.10*: First-Class Scholarship for Master's Students (Top 10%)
+- *2021.10*: Excellent Master's Student (Top 10%)
+- *2021.10*: First-Class Scholarship for Master's Students (Top 10%)
+- *2021.05*: First Prize in the Provincial "Challenge Cup" Competition (Ranked 2nd)
 
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
+# 💻 Projects
+- *2024.01 - 2026.01*, Fundamental Research Funds for the Central Universities (中央高校优博专项), **主持**
+- *2023.12 - 2023.12*, Scientific Innovation Practice Project of Postgraduates of Chang'an University, **主持**
+- *2020.09 - 2023.12*, National Natural Science Foundation, 参与, 核心人员
+- *2023.06 - 2024.12*, National Key R&D Program, 参与, 核心人员
 
-## Debug Locally
+# 💬 Part-time Academic Job
+Member of the China Society of Image and Graphics, Member of the Chinese Association for Artificial Intelligence, IEEE Student Member, [CSDN Blog Expert ](https://blog.csdn.net/qq_42308217?type=blog) (1 million views, **30,000** followers). Long-term reviewer for top journals and conferences in the field of Computer Science.
 
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
-
-# Acknowledges
-
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+# 📖 Educations
+- *September 2016 - June 2020*: Bachelor's in Measurement and Control Technology and Instruments, Chang'an University, Xi'an, China
+- *September 2020 - June 2022*: Master's in Information and Communication Engineering, Chang'an University, Xi'an, China, Supervised by Professor Wei Li
+- *September 2022 - June 2026* (now): Ph.D. in Traffic Information and Engineering, Chang'an University, Xi'an, China, Supervised by Professor Wei Li
