@@ -16,7 +16,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 # 📝 Publications 
 🎓 *Low-level tasks*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" style="max-width: 80%; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation](https://doi.org/10.1016/j.inffus.2024.102870) <br> **Jiangang Ding**, Yiquan Du, Wei Li, Lili Pei, Ningning Cui <br> [**Project**](https://github.com/Ding-JianGang/LG-Diff) <strong> | SCI Journal Paper</strong>
@@ -28,7 +28,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 </div>
 
 🎓 *High-level tasks*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/SeaTrack.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2024</div><img src='images/SeaTrack.png' alt="sym" style="max-width: 80%; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking](https://doi.org/10.1016/j.patcog.2024.111091) <br> **Jiangang Ding**, Wei Li, Ming Yang, Yuanlin Zhao, Lili Pei, Aojia Tian <br> <strong> SCI Journal Paper</strong>
@@ -39,7 +39,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/CrossModalityDetect.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TITS 2024</div><img src='images/CrossModalityDetect.png' alt="sym" style="max-width: 80%; height: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance](https://doi: 10.1109/TITS.2024.3373370) <br> **Jiangang Ding**, Wei Li, Lili Pei, Ming Yang, Aojia Tian, Bo Yuan <br> [**Project**](https://github.com/Ding-JianGang/Cross-Modality-MOT-in-Nearshore-Environments) <strong> | SCI Journal Paper</strong>
