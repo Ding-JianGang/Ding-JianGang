@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#-news"
+
+  - title: "Publications"
+    url: "/#-publications"
+
+  - title: "Honors and Awards"
+    url: "/#-honors-and-awards"
+
+  - title: "Projects"
+    url: "/#-projects"
+
+  - title: "Part-time Academic Job"
+    url: "/#-part-time-academic-job"
+
+  - title: "Educations"
+    url: "/#-educations"
