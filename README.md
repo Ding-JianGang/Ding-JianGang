@@ -4,6 +4,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 New Journal Paper on **Modal-Invariant Progressive Representation for Multimodal Image Registration** Accepted by **Information Fusion** (中科院一区, Top, IF=18.6, 第一作者).
 - *2024.12*: &nbsp;🎉🎉 New Conference Paper on **Cross-Modality Fusion Mamba for All-in-One Extreme Weather-Degraded Image Restoration** Accepted by **IEEE International Conference on Acoustics, Speech and Signal Processing 2025** (CCF-B, EI, 第一作者).
 - *2024.12*: &nbsp;🎉🎉 New Journal Paper on **LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation** Accepted by **Information Fusion** (中科院一区, Top, IF=18.6, 第一作者).
 - *2024.10*: &nbsp;🎉🎉 New Journal Paper on **SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking** Accepted by **Pattern Recognition** (中科院一区, Top, IF=8.0, 第一作者).
