@@ -18,7 +18,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 # 📝 Publications 
 🎓 *Low-level tasks*
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/modality invariant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/modality invariant.png' alt="sym" style="max-width: 60%; max-height: 180px; height: auto; width: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Modal-Invariant Progressive Representation for Multimodal Image Registration](https://doi.org/10.1016/j.inffus.2024.102870) <br> **Jiangang Ding**, Yuanlin Zhao, Lili Pei, Yihui Shan, Yiquan Du, Wei Li <br> <strong> | SCI Journal Paper</strong>
