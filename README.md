@@ -28,9 +28,6 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 - Achieved visually impressive performance, advancing subsequent downstream tasks.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/LG-Diff.png' alt="sym" style="max-width: 60%; max-height: 180px; height: auto; width: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
