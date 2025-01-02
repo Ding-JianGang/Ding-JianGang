@@ -21,7 +21,7 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/modality invariant.png' alt="sym" style="max-width: 50%; max-height: 140px; height: auto; width: auto;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Modal-Invariant Progressive Representation for Multimodal Image Registration](https://doi.org/10.1016/j.inffus.2024.102870) <br> **Jiangang Ding**, Yuanlin Zhao, Lili Pei, Yihui Shan, Yiquan Du, Wei Li <br> <strong> | SCI Journal Paper</strong>
+[Modal-Invariant Progressive Representation for Multimodal Image Registration](https://doi.org/10.1016/j.inffus.2024.102903) <br> **Jiangang Ding**, Yuanlin Zhao, Lili Pei, Yihui Shan, Yiquan Du, Wei Li <br> <strong> | SCI Journal Paper</strong>
 - Establish a modality-invariant domain to achieve end-to-end registration.
 - Propose a progressive dense registration scheme that aligns from coarse to fine.
 - Decouple the frequency of multimodal features for independent registration.
