@@ -4,13 +4,14 @@ I am a Ph.D. candidate at Chang'an University, conducting research on situationa
 
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 New Journal Paper on **A pipeline for enabling Nearshore Infrared Video Super-resolution to learn more high-frequency foreground information** Accepted by **Neural Networks** (中科院一区, IF=6.3, 通讯作者).
 - *2024.12*: &nbsp;🎉🎉 New Journal Paper on **Modal-Invariant Progressive Representation for Multimodal Image Registration** Accepted by **Information Fusion** (中科院一区, Top, IF=18.6, 第一作者).
 - *2024.12*: &nbsp;🎉🎉 New Conference Paper on **Cross-Modality Fusion Mamba for All-in-One Extreme Weather-Degraded Image Restoration** Accepted by **IEEE International Conference on Acoustics, Speech and Signal Processing 2025** (CCF-B, EI, 第一作者).
 - *2024.12*: &nbsp;🎉🎉 New Journal Paper on **LG-Diff: Learning to Follow Local Class-Regional Guidance for Nearshore Image Cross-modality High-Quality Translation** Accepted by **Information Fusion** (中科院一区, Top, IF=18.6, 第一作者).
 - *2024.10*: &nbsp;🎉🎉 New Journal Paper on **SeaTrack: Rethinking Observation-Centric SORT for Robust Nearshore Multiple Object Tracking** Accepted by **Pattern Recognition** (中科院一区, Top, IF=8.0, 第一作者).
 - *2024.10*: &nbsp;🎉🎉 New Conference Paper on **Learning to Follow Frequency View Guidance for Dental CT Images Deblurring** Accepted by **IEEE International Conference on Bioinformatics and Biomedicine 2024** (CCF-B, EI, 第一作者).
 - *2024.10*: &nbsp;🎉🎉 New Journal Paper on **Crack instance segmentation using splittable transformer and position coordinates** Accepted by **Automation in Construction** (中科院一区, Top, IF=10.3, 通讯作者).
-- *2024.09*: &nbsp;🎉🎉 New Journal Paper on **Nearshore optical video object detector based on temporal branch and spatial feature enhancement** Accepted by **Engineering Applications of Artificial Intelligence** (中科院二区, IF=8.0, 通讯作者).
+- *2024.09*: &nbsp;🎉🎉 New Journal Paper on **Nearshore optical video object detector based on temporal branch and spatial feature enhancement** Accepted by **Engineering Applications of Artificial Intelligence** (中科院一区, IF=8.0, 通讯作者).
 - *2024.03*: &nbsp;🎉🎉 New Journal Paper on **Novel Pipeline Integrating Cross-Modality and Motion Model for Nearshore Multi-Object Tracking in Optical Video Surveillance** Accepted by **IEEE Transactions on Intelligent Transportation Systems** (中科院一区, Top, IF=8.5, 第一作者).
 - *2023.03*: &nbsp;🎉🎉 New Journal Paper on **A coarse aggregate gradation detection method based on 3D point cloud** Accepted by **Construction and Building Materials** (中科院一区, Top, IF=7.6, 通讯作者).
 - *2023.02*: &nbsp;🎉🎉 New Journal Paper on **Foreign Bodies Detector Based on DETR for High-Resolution X-Ray Images of Textiles** Accepted by **IEEE Transactions on Instrumentation and Measurement** (中科院二区, Top, IF=5.6, 第一作者).
